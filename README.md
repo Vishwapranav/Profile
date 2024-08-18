@@ -12,15 +12,15 @@ This is about me!
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vishwapranav2003?theme=nord&font=ABeeZee&ext=contest)
 
 # 📊 Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhmmadabrar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhmmadabrar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmadabrar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Vishwapranav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vishwapranav&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwapranav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhmmadabrar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Vishwapranav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhmmadabrar&label=Profile%20views&color=0e75b6&style=flat" alt="muhmmadabrar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishwapranav&label=Profile%20views&color=0e75b6&style=flat" alt="Vishwapranav" /> </p>
